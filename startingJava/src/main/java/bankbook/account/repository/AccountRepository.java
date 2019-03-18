@@ -13,7 +13,7 @@ import main.java.bankbook.common.util.ScannerService;
 
 public class AccountRepository {
 
-    private static final String ACCOUNT_FILE_PATH = "/Users/ashe/Desktop/dev/startingJava/src/main/resource/account.txt";
+    private static final String ACCOUNT_FILE_PATH = "src/main/resource/account.txt";
     private static final String SEPARATOR = " ";
 
     Scanner scanner;

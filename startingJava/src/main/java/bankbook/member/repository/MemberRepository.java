@@ -12,7 +12,7 @@ import main.java.bankbook.member.model.Member;
 
 public class MemberRepository {
 
-    private static final String MEMBER_FILE_PATH = "/Users/ashe/Desktop/dev/startingJava/src/main/resource/member.txt";
+    private static final String MEMBER_FILE_PATH = "src/main/resource/member.txt";
     private static final String SEPARATOR = " ";
 
     private Scanner scanner;
